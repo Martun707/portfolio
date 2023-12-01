@@ -22,7 +22,7 @@ function Portfolio(){
                     <ul className="project-list">
 
                         <li className="project-item  active" data-filter-item data-category="web development">
-                            <a href={'https://github.com/Martun707/TourArmenia-website-react'}>
+                            <a href={'https://martun707.github.io/TourArmenia-website-react/'}>
 
                                 <figure className="project-img">
 
